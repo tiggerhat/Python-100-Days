@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "105a6de6e402127c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a70f05529ff26ae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a358ddce18dd1b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day01-15/04.循环结构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6617c55aec6a2c1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ed646ceead0af6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8f1bde3f3065c18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b328ba41582cf0bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e799afe8ca3113f8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88c83c775fdc86f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dbdbed4b957d00e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ec5c5dc4e25b7f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day01-15/04.循环结构.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "973a9aa180281efc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day01-15/04.循环结构.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d114e0ec714c7cbf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d84308c0fe4172d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day01-15/04.循环结构.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3a358ddce18dd1b1",
+  "lastOpenFiles": [
+    "Day01-15/03.分支结构.md",
+    "我的笔记",
+    "更新日志.md",
+    "README.md",
+    "公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/out/production/opencourse/org/mobiletrain/Example05.class",
+    "公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/out/production/opencourse/org/mobiletrain/Example05$RequestHandler.class",
+    "公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/out/production/opencourse/org/mobiletrain/Example04.class",
+    "公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/out/production/opencourse/org/mobiletrain/Example03.class",
+    "公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/out/production/opencourse/org/mobiletrain/Example02.class",
+    "公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/out/production/opencourse/org/mobiletrain/Example01.class",
+    "公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/out/production/opencourse/org/mobiletrain",
+    "公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/out/production/opencourse/META-INF/opencourse.kotlin_module",
+    "公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/org/mobiletrain/Example04.java",
+    "公开课/文档/第04次公开课-好玩的Python/code/resources/frame.jpg",
+    "公开课/文档/第04次公开课-好玩的Python/code/resources/chiling.jpg",
+    "公开课/文档/第06次公开课-算法入门系列2-在水一方/res/knight_tour.gif",
+    "公开课/文档/第06次公开课-算法入门系列2-在水一方/res/maze.png",
+    "公开课/文档/第06次公开课-算法入门系列2-在水一方/res/eight_queen.png",
+    "公开课/文档/第06次公开课-算法入门系列2-在水一方/res/droste.png",
+    "公开课/文档/第04次公开课-好玩的Python/res/requests.png",
+    "公开课/文档/年薪50W+的Python程序员如何写代码/res/use-pandas-in-jupyter-notebook.png",
+    "公开课/文档/年薪50W+的Python程序员如何写代码/res/action.png",
+    "公开课/文档/第06次公开课-算法入门系列2-在水一方/算法入门系列2 - 在水一方.md",
+    "公开课/文档/第05次公开课-算法入门系列1-周而复始/算法入门系列1-周而复始.md",
+    "公开课/文档/第04次公开课-好玩的Python/好玩的Python.md",
+    "公开课/文档/年薪50W+的Python程序员如何写代码/年薪50W+的Python程序员如何写代码.md",
+    "番外篇/res/wanwang.png",
+    "番外篇/那些年我们踩过的那些坑.md",
+    "番外篇/英语面试.md",
+    "番外篇/玩转PyCharm.md",
+    "番外篇/知乎问题回答.md",
+    "番外篇/用函数还是用复杂的表达式.md",
+    "番外篇/接口文档参考示例.md",
+    "番外篇/我为什么选择了Python.md",
+    "番外篇/常见反爬策略及应对方案.md",
+    "番外篇/使用Hexo搭建自己的博客.md",
+    "番外篇/一个小例子助你彻底理解协程.md",
+    "番外篇/Python编程惯例.md",
+    "番外篇/Python数据分析师面试题.md",
+    "番外篇/Python参考书籍.md",
+    "番外篇/Python容器使用小技巧.md",
+    "番外篇/PEP8风格指南.md",
+    "番外篇/Python之禅的最佳翻译.md",
+    "Day91-100/98.项目部署上线和性能调优.md",
+    "Day91-100/99.面试中的公共问题.md",
+    "Day91-100/97.电商网站技术要点剖析.md"
+  ]
+}
