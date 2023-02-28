@@ -148,8 +148,11 @@
   },
   "active": "3a358ddce18dd1b1",
   "lastOpenFiles": [
-    "Day01-15/03.分支结构.md",
+    "我的笔记/1-15day.ipynb",
     "我的笔记",
+    "我的笔记/未命名.md",
+    "Day01-15/04.循环结构.md",
+    "Day01-15/03.分支结构.md",
     "更新日志.md",
     "README.md",
     "公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/out/production/opencourse/org/mobiletrain/Example05.class",
@@ -190,9 +193,6 @@
     "番外篇/Python参考书籍.md",
     "番外篇/Python容器使用小技巧.md",
     "番外篇/PEP8风格指南.md",
-    "番外篇/Python之禅的最佳翻译.md",
-    "Day91-100/98.项目部署上线和性能调优.md",
-    "Day91-100/99.面试中的公共问题.md",
-    "Day91-100/97.电商网站技术要点剖析.md"
+    "番外篇/Python之禅的最佳翻译.md"
   ]
 }
