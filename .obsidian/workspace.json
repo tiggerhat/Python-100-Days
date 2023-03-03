@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day01-15/05.构造程序逻辑.md",
+                "file": "Day01-15/06.函数和模块的使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day01-15/05.构造程序逻辑.md",
+                "file": "Day01-15/06.函数和模块的使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day01-15/05.构造程序逻辑.md",
+                "file": "Day01-15/06.函数和模块的使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day01-15/05.构造程序逻辑.md"
+                "file": "Day01-15/06.函数和模块的使用.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "3a358ddce18dd1b1",
   "lastOpenFiles": [
+    "Day01-15/05.构造程序逻辑.md",
     "Day01-15/04.循环结构.md",
     "Day01-15/03.分支结构.md",
     "Day01-15/07.字符串和常用数据结构.md",
     "Day16-20/16-20.Python语言进阶.md",
     "Day21-30/21-30.Web前端概述.md",
-    "Day01-15/05.构造程序逻辑.md",
     "Day01-15/02.语言元素.md",
     "我的笔记/1-15day.ipynb.2865b006ee6cc874157db83e26d57c2f.tmp",
     "我的笔记/1-15day.ipynb",
