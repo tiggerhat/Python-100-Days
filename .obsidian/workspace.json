@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day01-15/06.函数和模块的使用.md",
+                "file": "Day01-15/07.字符串和常用数据结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day01-15/06.函数和模块的使用.md",
+                "file": "Day01-15/07.字符串和常用数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day01-15/06.函数和模块的使用.md",
+                "file": "Day01-15/07.字符串和常用数据结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day01-15/06.函数和模块的使用.md"
+                "file": "Day01-15/07.字符串和常用数据结构.md"
               }
             }
           }
@@ -149,11 +149,17 @@
   "active": "3a358ddce18dd1b1",
   "lastOpenFiles": [
     "Day01-15/08.面向对象编程基础.md",
+    "Day01-15/07.字符串和常用数据结构.md",
+    "Day01-15/10.图形用户界面和游戏开发.md",
+    "Day01-15/11.文件和异常.md",
+    "Day01-15/12.字符串和正则表达式.md",
+    "Day01-15/13.进程和线程.md",
+    "Day01-15/14.网络编程入门和网络应用开发.md",
+    "Day01-15/15.图像和办公文档处理.md",
     "Day01-15/06.函数和模块的使用.md",
     "Day01-15/05.构造程序逻辑.md",
     "Day01-15/04.循环结构.md",
     "Day01-15/03.分支结构.md",
-    "Day01-15/07.字符串和常用数据结构.md",
     "Day16-20/16-20.Python语言进阶.md",
     "Day21-30/21-30.Web前端概述.md",
     "Day01-15/02.语言元素.md",
@@ -187,12 +193,6 @@
     "番外篇/那些年我们踩过的那些坑.md",
     "番外篇/英语面试.md",
     "番外篇/玩转PyCharm.md",
-    "番外篇/知乎问题回答.md",
-    "番外篇/用函数还是用复杂的表达式.md",
-    "番外篇/接口文档参考示例.md",
-    "番外篇/我为什么选择了Python.md",
-    "番外篇/常见反爬策略及应对方案.md",
-    "番外篇/使用Hexo搭建自己的博客.md",
-    "番外篇/一个小例子助你彻底理解协程.md"
+    "番外篇/知乎问题回答.md"
   ]
 }
