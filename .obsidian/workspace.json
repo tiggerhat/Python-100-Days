@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a70f05529ff26ae8",
+        "id": "1c300a6d9af91898",
         "type": "tabs",
         "children": [
           {
-            "id": "3a358ddce18dd1b1",
+            "id": "485a8873942f760b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day01-15/05.构造程序逻辑.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day01-15/05.构造程序逻辑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day01-15/05.构造程序逻辑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Day01-15/05.构造程序逻辑.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,8 +138,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3a358ddce18dd1b1",
+  "active": "485a8873942f760b",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "Day01-15/05.构造程序逻辑.md",
     "Day01-15/07.字符串和常用数据结构.md",
     "Day01-15/08.面向对象编程基础.md",
     "Day01-15/10.图形用户界面和游戏开发.md",
@@ -157,7 +151,6 @@
     "Day01-15/14.网络编程入门和网络应用开发.md",
     "Day01-15/15.图像和办公文档处理.md",
     "Day01-15/06.函数和模块的使用.md",
-    "Day01-15/05.构造程序逻辑.md",
     "Day01-15/04.循环结构.md",
     "Day01-15/03.分支结构.md",
     "Day16-20/16-20.Python语言进阶.md",
@@ -192,7 +185,6 @@
     "番外篇/res/wanwang.png",
     "番外篇/那些年我们踩过的那些坑.md",
     "番外篇/英语面试.md",
-    "番外篇/玩转PyCharm.md",
-    "番外篇/知乎问题回答.md"
+    "番外篇/玩转PyCharm.md"
   ]
 }
